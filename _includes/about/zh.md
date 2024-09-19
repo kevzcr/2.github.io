@@ -1,6 +1,7 @@
-Hey，我是Kev
-我想分享一段文章给大家
-<span style="color: #02aa6b;">
+- Hey，我是Kev
+- 我想分享一段文章给大家
+- 
+<p align = "center"><img src="https://cdn.jsdelivr.net/gh/kevzcr/picx-images-hosting@master/4/image.esgzynk2a.png" style="width:600px;">
 
 # 徐继畲yú
 - 华盛顿纪念碑 是美国首都华盛顿的地标性建筑，也是 *世界上最高的石制建筑*，是为了纪念美国国父、首任总统华盛顿而建造的。
