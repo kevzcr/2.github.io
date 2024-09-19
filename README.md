@@ -1,9 +1,9 @@
-[Hux Blog](https://huangxuan.me)
+[Kev Blog](https://www.zcr07.us.kg/)
 ================================
 
 > I never expected this to become popular.
 
-![](http://huangxuan.me/img/blog-desktop.jpg)
+![]([http://huangxuan.me/img/blog-desktop.jpg](https://cdn.jsdelivr.net/gh/kevzcr/picx-images-hosting@master/4/image.6pngxs0w92.jpg))
 
 
 [User Manual 👉](_doc/Manual.md)
