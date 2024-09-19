@@ -8,5 +8,7 @@
 
 
 
-致谢
-这个模板是从这里[IronSummitMedia/startbootstrap-clean-blog-jekyll](https://github.com/Huxpro/huxpro.github.io) fork 的。
+### 致谢
+- 这个模板fork自
+- https://github.com/Huxpro/huxpro.github.io
+
