@@ -1,12 +1,12 @@
 - Hey，我是Kev
 - 我想分享一段文章给大家
-- 
-<p align = "center"><img src="https://cdn.jsdelivr.net/gh/kevzcr/picx-images-hosting@master/4/image.esgzynk2a.png" style="width:600px;">
 
 # 徐继畲yú
 - 华盛顿纪念碑 是美国首都华盛顿的地标性建筑，也是 *世界上最高的石制建筑*，是为了纪念美国国父、首任总统华盛顿而建造的。
 - 华盛顿**纪念碑内部石壁上，镶嵌有193块石碑**，其中有一块刻有中文，砌于纪念碑内第十级内壁上。
+
 <p align = "center"><img src="https://cdn.jsdelivr.net/gh/kevzcr/picx-images-hosting@master/4/image.esgzynk2a.png" style="width:600px;">
+  
 - 石碑由花岗岩制作，字体为正楷，黑漆碑文如下： 
 - 钦命福建巡抚、部院大中丞徐继畬所著《瀛寰志略》曰：按，
 - 华盛顿，异人也。
