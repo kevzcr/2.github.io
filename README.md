@@ -3,7 +3,7 @@
 
 > I never expected this to become popular.
 
-![]([http://huangxuan.me/img/blog-desktop.jpg](https://cdn.jsdelivr.net/gh/kevzcr/picx-images-hosting@master/4/image.6pngxs0w92.jpg))
+![](https://cdn.jsdelivr.net/gh/kevzcr/picx-images-hosting@master/4/image.6pngxs0w92.jpg)
 
 
 [User Manual 👉](_doc/Manual.md)
