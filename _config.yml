@@ -89,7 +89,7 @@ service-worker: true
 page-mathjax: false
 
 # Friends
-friends:
+博客群:
   [
     { title: "bo", href: "https://bo.zbb07.us.kg/" },
     { title: "bk", href: "https://bk.zcr07.us.kg/" },
